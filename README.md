@@ -6,6 +6,9 @@ opens it; this page is the index of everything published so far.
 
 **Catalogue: https://getmenu.duckdns.org/places**
 
+Browsable index of all 783 venues, grouped by city and category:
+https://antonbond14.github.io/getmenu-vietnam/
+
 Every page carries the prices the venue itself charges for dining in — the prices
 printed on its board, not an aggregator's estimate.
 
